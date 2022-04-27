@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+  background-color:rgb(52, 97, 247);
+  color:aliceblue;
+  height: 690px;
+  border-bottom-right-radius:800px 42px;
+  border-bottom-left-radius:800px 42px;
+}
+.dropdown:hover {
+  display: block;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+figure {
+  float: left;
+  margin: 0;
+  text-align: center;
+  padding: 30px;
+}
+.top{
+  text-align: left;
+  padding-left: 12em;
+  padding-top: 1em;
+}
+.App-link {
+  color: #61dafb;
+}
+.inline { 
+  padding-left: 4%;
+  margin:10px;
+  float:left;
+  margin :10px;
+}
+.upper{
+  align-items: center;
+  padding-bottom: 20%;
+  padding-top: 10%;
+}
+
+.box-text{
+  color:aliceblue;
+  width: 10%;
+  margin: auto;
+  width: 27%;
+}
+.country{
+  background-color: rgb(70, 117, 227);
+  color: azure;
+  height: 30px;
+  border-radius: 5px;
+  border-width: 0em;
+}
+
+
